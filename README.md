@@ -1,2 +1,2 @@
 # WsProyectoJavaEEMavenRest
-Servicio web para el intercambio de datos al cliente.
+Servicio Web Rest para el intercambio de datos al cliente.
